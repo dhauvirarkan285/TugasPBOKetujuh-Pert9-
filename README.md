@@ -15,4 +15,5 @@
 ## Tatacara
 1. Pertama, kalian diharuskan menginstalasi/mengunduh iReport 5.6.0 yang selanjutnya akan dipluggin ke dalam NetBeans
    ![Menambahkan Plugin](images/Screenshot 2025-10-18 165852.png)
+   2. 
    
